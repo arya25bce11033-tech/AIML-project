@@ -30,8 +30,10 @@ This project is a Health Report Analyzer built using Python. It analyzes various
 4. Enter required inputs when prompted
    
 **Machine Learning Model**
+
 This project uses a Decision Tree Classifier with random_state=50 and max_depth=4 to predict health risk based on user inputs.
 
 **Conclusion**
+
 This project demonstrates how AI and ML can be used together to analyze health reports and
 provide meaningful insights.
