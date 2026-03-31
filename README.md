@@ -6,9 +6,9 @@
 This project is a Health Report Analyzer built using Python. It analyzes various health parameters and provides a health report along with risk prediction using both rule-based logic and Machine Learning.
 
 **Features**
-   BMI Calculation
-   Sugar Level Analysis
-   Blood Pressure Analysis
+   - BMI Calculation
+   - Sugar Level Analysis
+   - Blood Pressure Analysis
 • Haemoglobin Analysis
 • Cholesterol Analysis (HDL, LDL, Triglycerides)
 • Thyroid Analysis (TSH, T3, T4)
