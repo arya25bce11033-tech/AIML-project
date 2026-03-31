@@ -9,19 +9,19 @@ This project is a Health Report Analyzer built using Python. It analyzes various
    - BMI Calculation
    - Sugar Level Analysis
    - Blood Pressure Analysis
-• Haemoglobin Analysis
-• Cholesterol Analysis (HDL, LDL, Triglycerides)
-• Thyroid Analysis (TSH, T3, T4)
-• Risk Score Calculation
-• Machine Learning Prediction using Decision Tree
-• Warnings and Action Steps
+   - Haemoglobin Analysis
+   - Cholesterol Analysis (HDL, LDL, Triglycerides)
+   - Thyroid Analysis (TSH, T3, T4)
+   - Risk Score Calculation
+   - Machine Learning Prediction using Decision Tree
+   - Warnings and Action Steps
 
 **Technologies Used**
-• Python
-• Pandas
-• Scikit-learn
-• VS Code
-• GitHub
+   - Python
+   - Pandas
+   - Scikit-learn
+   - VS Code
+   - GitHub
 
 **How to Run**
 1. Install required libraries: pip3 install pandas scikit-learn
